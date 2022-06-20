@@ -85,7 +85,7 @@ nav ul.dropdown_content a:hover {
 #main_image > .welcome {
     position: absolute;
     left: 50%;
-    top: 20%;
+    top: 25%;
     width: 300px;
     height: 100px;
     background-color: rgba(255,255,255,0.8);
